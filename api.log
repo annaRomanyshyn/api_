@@ -1,0 +1,16 @@
+2018-01-31 00:12:30,969 [main] ERROR (utils.TestListener onTestFailure:18)  - Test: verifyResourceDataByIdFAILED
+2018-01-31 00:12:34,467 [main] ERROR (utils.TestListener onFinish:34)  - Test: romanyshyn_test_framework_mentorfip_taskis finished
+2018-01-31 00:21:59,939 [main] ERROR (utils.TestListener onTestFailure:18)  - Test: verifyResourceDataByIdFAILED
+2018-01-31 00:22:01,072 [main] ERROR (utils.TestListener onTestFailure:18)  - Test: verifyUserAbsenceByIdFAILED
+2018-01-31 00:22:02,757 [main] ERROR (utils.TestListener onTestFailure:18)  - Test: verifyUserNamesByIdFAILED
+2018-01-31 00:22:04,110 [main] ERROR (utils.TestListener onFinish:34)  - Test: romanyshyn_test_framework_mentorfip_taskis finished
+2018-01-31 00:22:24,358 [main] ERROR (utils.TestListener onFinish:34)  - Test: romanyshyn_test_framework_mentorfip_taskis finished
+2018-01-31 00:22:32,556 [main] ERROR (utils.TestListener onFinish:34)  - Test: romanyshyn_test_framework_mentorfip_taskis finished
+2018-01-31 00:22:40,664 [main] ERROR (utils.TestListener onFinish:34)  - Test: romanyshyn_test_framework_mentorfip_taskis finished
+2018-01-31 00:22:49,841 [main] ERROR (utils.TestListener onTestFailure:18)  - Test: verifyUserNamesByIdFAILED
+2018-01-31 00:22:49,861 [main] ERROR (utils.TestListener onFinish:34)  - Test: romanyshyn_test_framework_mentorfip_taskis finished
+2018-01-31 00:24:07,388 [main] ERROR (utils.TestListener onFinish:34)  - Test: romanyshyn_test_framework_mentorfip_taskis finished
+2018-01-31 00:24:21,271 [main] ERROR (utils.TestListener onFinish:34)  - Test: romanyshyn_test_framework_mentorfip_taskis finished
+2018-01-31 00:34:15,278 [main] ERROR (utils.TestListener onFinish:34)  - Test: romanyshyn_test_framework_mentorfip_taskis finished
+2018-01-31 00:37:43,479 [main] ERROR (utils.TestListener onFinish:34)  - Test: romanyshyn_test_framework_mentorfip_taskis finished
+2018-01-31 00:40:31,730 [main] ERROR (utils.TestListener onFinish:34)  - Test: romanyshyn_test_framework_mentorfip_taskis finished
